@@ -1,5 +1,5 @@
 #include <iostream>
-#define MAXP 15
+#define MAXP 15   // broj predmeta
 using namespace std;
 
 struct predmeti {
@@ -33,7 +33,6 @@ int main(){
 	cout<<" --- Ocjene: ---"<<endl;
 	cout<<" # ako ocjena nije upisana ili je 0, nece se racunati "<<endl;
 	for(int i=0; i<MAXP; ++i){
-		// cout<<p[i].id<<". "<<p[i].ime<<": ";
 		printf("%2d. %5s: ", p[i].id, p[i].ime);
 		cin>>o[i];
 	}
@@ -44,9 +43,7 @@ int main(){
 	}
 	pr/=upisanih;
 
-	cout<<" >>> Prosjek: ";
-	printf("%.2lf", pr);
-	cout<<endl;
+	cout<<" >>> Prosjek: "; printf("%.2lf", pr); cout<<endl;
 
 	return 0;
 }
