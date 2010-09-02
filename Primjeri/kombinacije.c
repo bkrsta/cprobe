@@ -1,7 +1,5 @@
 //kombinacije
-//#include <iostream>
 #include <stdio.h>
-
 
 void k(int dub, int br, int N){
 	if(dub == 0){
