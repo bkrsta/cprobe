@@ -1,0 +1,97 @@
+Linearne strukture
+1. Napisi program koji ce za zadane stranice pravokutnika ispisati dijagolnalu, opseg i povrsinu.
+2. Zadane su tocke A(x1, y1) i B(x2, y2). Nadi njihovu udaljenost u koordinatnom sustavu.
+3. Napisite program koji ce za zadani primjer kruga, ispisati opseg i povrsunu  kruga.
+4. Zadane su dvije tocke u koordinatnnom sustavu. A(x1, y1), B(x2, y2). Ispisi jednadzbu pravca kroz te dvije tocke.
+5. Zadana su dva kompleksna broja. Ispisi ih! Ispisi njihov zbroj, umnizak, razliku i kolicnik.
+6. Zadan je kompleksni broj. Izracunaj njegov mogul.
+7. Napisi program koji ce za zadanikut u stupnjevima, minutama i sekundama, pretvoriti u radijane.
+8. Napisi program koji ce ucitati i ispisati vlastito ime, zatim godine starotisti i priblizan (1 godina = 365) broj dana. 
+
+Naredba if
+1. Napisi program koji ce od zadana tri broja ispisati najveci od njih.
+2. Napisi program koji ce za zadane stranice trokuta izracunati povrsunu trokuta.
+3. Zadaj prirodni  broj. Ispisi da li je zadani broj parni ili neparni.
+4. Zadani su brojevi a, b. Ovisno o a i b izracunaj x= a+2b za a<b odnosno x=2a-3b za a>=b
+5. Zadaj broj. Ako je broj veci od 5, pissi poruku: broj je veci od 5, a ako nije broj je manji od 5.
+6. Zadaj a, b, c, d. Ako je a<b i c>d ispisi 8 zvjezdica, a ako uvijet nije ispunjen 8 crtica.
+7. Rijesi kvadratnu jdenadzbu.
+
+Uvjetni operator
+1. Napisi program koji ce ispisati veci od dvaju zadanih brojeva.
+2. Napisi program koji ce od veceg zadanog broja oduzeti manji.
+3. Napisi program koji ce od zadanog cijelog broja, ako je on paran, ispisati njegov sljedbenik, a ako je neparan njegov prethodnik.
+4. Napisi program koji ce za zadani broj ispisati njegovu apsolutnu vrijednost (bez upotrebe funkcije abs()).
+5. Napisi program koji ce za zadani broje ispisati -1, ako je broj negativan, 0 ako je zadani broj nula, odnosno 1, ako je zadani brij veci od nule.
+
+Naredba switch-case
+1. Zadani su a, b. Ovisno o i, izracunaj: x=a+b za i=1; x=a*b za i=2; a/b za i=3. Ispisi  a, b, i, x!
+2. Zadaj dva kompleksna brija. Ovisno o izrazu 1 - zbrajanje, 2 - mnozenje, 3 - oduzimanje, 4 - dijeljenje. Napisi rezultat.
+3. Zadane su stranice paralelograma. Ovisno o izboru O, P, d izracunaj opseg, povrsinu i dijgalonalu paralelograma. Izlaz je iz programa predviden ptiriskom na tipku k.
+
+Programska petlja for
+
+1. Napisi program koji ce zbrojiti sve brojeve od 200 - 300 koji su djeljivi sa 7. Koliko ima takvih brojeva?
+2. Zadaj n brojeva. Izracunaj njihovu aritmeticku sredinu.
+3. Napisi program koji ce ucitati n brojeva i ispisati najveci od njih.
+4. Upisi tezine za n ucenika, te ispisi prosjecnu tezinu. Ipsisi koliko je ucenika cija je tezina manja od 65kg.
+5. Upisite visine i tezine za n ucenika. Ispisi koliko je ucenika visih od 168cm, a koliko je tezih od 63kg.
+6. Zadano je n prirodnih brojeva. Izracunaj zbroj prvih brojeva.
+7. Napisi program koji ce ucitati cijeli broj n. Ako je n>0 ispisati zvjezdicu  n/4 puta, a u protivnom plus abs(n)%4 puta.
+8. Napisi program koji ce ne upotrebljavajuci polja, od n zadanih brojeva ispisati najveci, kao i broj njegovih pojava.
+
+Programska petalja while
+
+1. Uz pomoc petlje while izracunaj zbroj neparnih brojeva od 1 do 100.
+2. Izracunaj zbroj svakog treceg od prvih n prirodnih brojeva.
+3. Napisati program koji ucitava niz  znakova s tipkovnice i ispisuje ih na zaslon racunala. Prekid unosa oznacava unos slova k.
+4. Napisati program koji  izracunava faktoriijel unesene cjelobrojne vrijednosti.
+
+Programska petlja do while
+1. Uz pomoc petlje do while ispisi brojeve vece od 300 i manje od 400 koji su djeljivi s 13, te ispisi koiko takvih brijeva ima.
+2. Zadane su stranice raznostranicnog trokuta. Napisi program koji ovisno o prvom slovu ponudenog izbora racuna: o - opseg, p - povrsinu trokuta. Kraj programa odreden je unosom slova k ili K.
+3. Napisati program koji  izracunava vrijednost broja Pi prema formuli Pi/4 = 1 - 1/3 + 1/5 - 1/7 +... do ucitane preciznosti. Preciznost se ucitava kao realan broj, pr: 0.00001 ili 0.01.
+4. Napisi program koji ucitava dva cijela broja i podijeliti ih i rezultat ispisati na 20 decimala. Ako su brojevi djeljivi nije potrebno ispisivati nule.
+5. Zadaj prirodni broj. Ispitaj je li zadani broj djeljiv sa 7. Program ponavljaj sve dok se ne pritisne slovo n.
+
+Naredba continue
+1. Uz pomoc naredbe continue ispisati prirodne brojeve od 1 - 100 koji su djeljivi sa 17!
+2. Napisi program koji ce za zadani prirodni broj ispisati umnozak njegovih znamenaka.
+3. Napisi program koji ce prirodni broj rastaviti na proste faktore, tj. napisati ga kao umnozak prostih faktora.
+4. Napisi program koji ce naci najvecu zajednicku mjeru dvaju prirodnih brojeva.
+
+Jednodimenzionalna polja
+
+1. Napisi program koji ce ucitati niz od  n brojeva, ispisati najveci clan niza, aritmeticku sredinu niza, a zatim ispisati cijeli niz.
+2. Napisi program koji ce ucitati niz brojeva, sortirati ga i ispisati sortiranog.
+3. Napisi program koji ce ucitati uspjeh n ucenika, izracunati i ispisati prosjecni uspjeh, te broj odlicnih, vrlo dobroih, dobrih i dovoljnih i nedovoljnih ucenika.
+4. Zadan je niz brojeva. Ispisi sve one koji su djeljivi s 5 i koliko ih ima.
+5. Zadan je niz brojeva. Izracunaj i ispisi  zbroj pozitivnih, broj negativnih brojeva i broj brojeva koji su djeljivi  s 11.
+6. Zadan je niz brojeva. Izracunaj zbroj parnih i zbroj neparnih upotrebljavajuci jednodimenzinalna polja.
+7. Naisi program koji zbraja dva jednodim. poja.
+8. Napisi program koji izracunava kolicinu zauzete memorije bilo kojeg jednomimenzionalnogpolja.
+9. Napisi program koji ce ucitati 1d polje od najvise 100 elemenata i izracunati zbroj elemenata polja na parnim mjestima (po redosljedu unosenja).
+10. Napisi program koji ce ucitati 1d polje od najvise 100 elemenata i isipsati koliko ima parnih elemenata polja na parnim mjestima (po redosljedu unosenja).
+11. Ucitati 1d polje i na osnovi njega formirati drugo, tako da bubde b0=a0, b1=a0+a1, bn=a1+...+an.
+12. Napisi program koji ce ucitati dva 1d polja od najvise 100 elemenata i na osnvi njih formirati trece polje tako da je i-ti element treceg polja jednak manjem od i-tih elemenata ucitanih polja. Ako su i-ti elementi prvog i drugog polja jednaki, i-ti element novodobivenog polja treba poprimiti vrijednost 13.
+13. Napisi program koji ce ucitati dva 1d polja i na osnovi njh formirati trece polje tako da je i-ti element treceg polja jednak vecem od i-tih  elemenata ucitanih polja. Ako su i-ti elementi prvog i drugog polja jednaki, i-ti element novodobivenog polja treba poprimiti vrijednost 17.
+
+Rekurzije
+1. Napisi rekurzivnu funkciju koja ce izracunati n!.
+2. Napisi rekurzivnu funkciju koja ce za prirodne brojeve n i m izracunati n^m.
+3. Napisi rekurzivnu funkciju koja ce za ucitani n izracunati n-ti clan Fibonaccijevog niza.
+4. Napisi rekurzivnu funkciju koja ce za dva prirodna broja izracunati njegovu najvecu zajednicku mjeru.
+5. Napisi rekurzivnu funkciju za izracunavanje binomnog koeficijenta (n r) = (n-1 r)+(n-1 r-1);
+6. Napisi rekurzivnu funkciju koja ce za zadani prirodni broj ispisati zbroj njegovih znamenki.
+7. Napisi rekurzivnu funkciju koja ce izracunavati umnozak znamenki prirodnog broja.
+8. Napisi rekurzivnu funkciju koja ce izracunati zbroj prvih n prirodnih brojeva.
+9. Napisi rekurzivnu funkciju koja ce izracunati zbroj neparnih prirodnih brojeva do ucitanog broja n.
+10. Napisi rekurzivnu funkciju koja ce izracunati umnozak parnih prirodnih brojeva do prirodnog broja n.
+11. Napisi rekurzivnu funkciju koja ce ucitana dva prirodna broja podijelit na zadani broj decimala.
+12. Napisi rekurzivnu funkciju koja ce ucitana dva prirodna broja podijeliti na zadani broj decimala.
+13. Napisi rekurzivnu funkciju koja ce ucitani prorodni broj u dekadskom zapisu zapisati binarno.
+14. Napisi rekurzivnu funkciju koja ce rijesiti problem hanojskog tornja.
+15. Napisi rekurzivnu funkciju koja ce ispisati sve permutacije od n elemenata.
+16. Napisi rekurzivnu funkciju koja ce binarnim pretrazivanjem u ulazno sortiranom polju  cijelih brojeva provjeravati da li se zadani broj nalazi ili ne u zadanom polju.
+17. Napisi rekurzivnu funkciju koja ce ispisati sve particije zadanog prirodnog broja.
+
