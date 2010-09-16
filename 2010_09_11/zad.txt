@@ -1,7 +1,7 @@
 Linearne strukture
-1. Napisi program koji ce za zadane stranice pravokutnika ispisati dijagolnalu, opseg i povrsinu.
-2. Zadane su tocke A(x1, y1) i B(x2, y2). Nadi njihovu udaljenost u koordinatnom sustavu.
-3. Napisite program koji ce za zadani primjer kruga, ispisati opseg i povrsunu  kruga.
+. 1. Napisi program koji ce za zadane stranice pravokutnika ispisati dijagolnalu, opseg i povrsinu.
+. 2. Zadane su tocke A(x1, y1) i B(x2, y2). Nadi njihovu udaljenost u koordinatnom sustavu.
+. 3. Napisite program koji ce za zadani primjer kruga, ispisati opseg i povrsunu  kruga.
 4. Zadane su dvije tocke u koordinatnnom sustavu. A(x1, y1), B(x2, y2). Ispisi jednadzbu pravca kroz te dvije tocke.
 5. Zadana su dva kompleksna broja. Ispisi ih! Ispisi njihov zbroj, umnizak, razliku i kolicnik.
 6. Zadan je kompleksni broj. Izracunaj njegov mogul.
@@ -9,7 +9,7 @@ Linearne strukture
 8. Napisi program koji ce ucitati i ispisati vlastito ime, zatim godine starotisti i priblizan (1 godina = 365) broj dana. 
 
 Naredba if
-1. Napisi program koji ce od zadana tri broja ispisati najveci od njih.
+. 1. Napisi program koji ce od zadana tri broja ispisati najveci od njih.
 2. Napisi program koji ce za zadane stranice trokuta izracunati povrsunu trokuta.
 3. Zadaj prirodni  broj. Ispisi da li je zadani broj parni ili neparni.
 4. Zadani su brojevi a, b. Ovisno o a i b izracunaj x= a+2b za a<b odnosno x=2a-3b za a>=b
@@ -77,7 +77,7 @@ Jednodimenzionalna polja
 13. Napisi program koji ce ucitati dva 1d polja i na osnovi njh formirati trece polje tako da je i-ti element treceg polja jednak vecem od i-tih  elemenata ucitanih polja. Ako su i-ti elementi prvog i drugog polja jednaki, i-ti element novodobivenog polja treba poprimiti vrijednost 17.
 
 Rekurzije
-1. Napisi rekurzivnu funkciju koja ce izracunati n!.
+. 1. Napisi rekurzivnu funkciju koja ce izracunati n!.
 2. Napisi rekurzivnu funkciju koja ce za prirodne brojeve n i m izracunati n^m.
 3. Napisi rekurzivnu funkciju koja ce za ucitani n izracunati n-ti clan Fibonaccijevog niza.
 4. Napisi rekurzivnu funkciju koja ce za dva prirodna broja izracunati njegovu najvecu zajednicku mjeru.
